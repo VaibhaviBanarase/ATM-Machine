@@ -32,7 +32,9 @@ ATM_Machine/
 
 ## Project Screenshot
 
-![ATM Machine](screenshots/Atm.jpeg)
+## Project Screenshot
+
+![ATM Machine](./screenshots/Atm.jpeg)
 
 ## How to Run
 
