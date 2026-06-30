@@ -16,6 +16,12 @@ A Java-based **ATM Management System** developed using **Java Swing** and **MySQ
 * MySQL (`atm_db`)
 * NetBeans IDE
 
+## Database
+
+The project uses a MySQL database named `atm_db`.
+
+The SQL script is available in the `database` folder and can be imported into MySQL before running the application.
+
 ## Project Screenshot
 
 ![ATM Machine](screenshots/Atm.jpeg)
